@@ -1,0 +1,19 @@
+{
+	"name": "Captain America Shield",
+	"author": "A R E Z",
+	"social": "youtube.com/c/TeamOlympus",
+	"authors": 
+	[
+		{
+			"name": "A R E Z", 		
+			"role": "Animations & Port",
+			"social": "youtube.com/c/TeamOlympus"
+		},
+		{
+			"name": "ElliotGriffiths",
+			"social": "https://sketchfab.com/3d-models/captain-america-shield-a11d64b3092a403cafec9a651075e6be",
+			"role": "Original Model from Sketchfab"			
+		}
+	],
+	"replacement": "Zeus Slot"
+}

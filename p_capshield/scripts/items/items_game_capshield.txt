@@ -1,0 +1,27 @@
+"items_game"
+{
+	"items"
+	{
+	"31"
+		{
+			"baseitem"		"0"
+		}
+	
+	"37"
+		{
+			"item_name"		"Vibranium Shield"
+			"item_description"		"This shield is composed of proto-adamantium, a never-duplicated combination of vibranium, steel alloy, and an unknown catalyst. This material absorbs kinetic energy, transferring very little and thus preventing carrier from feeling recoil or transferred impact forces when blocking attacks. It is virtually indestructible under normal conditions."
+			"baseitem"		"1"
+			"default_slot_item"		"1"
+			"item_sub_position"		"equipment2"
+			"attributes"
+			{
+				"in game price"		"2500"
+				"damage"		"100"
+				"max player speed"		"250"
+				"cycletime"		"0.5"
+			}
+			
+		}
+	}
+}
